@@ -1,5 +1,35 @@
-What does AI-Driven Development mean to you?
-AI-Driven Development ka matlab ya ka hum AI ka madad sa apna kam karway jesa ka hum coders aik strategy plan karta howa ai ki help sa coding karta hen. koi bhi kam ai ki madad sa kiya jjay build kiya jay usa hum AI driven devolpment kaha ga
+# Task 1
+## ✍️ Reflection Activity
+### Q1. What does AI-Driven Development mean to you?
+AI-Driven Development ka matlab ye hai k hum AI ki madad se apna kaam tez aur asani se karwain. Jaise k hum coders ek strategy plan karte hain aur phir AI ki help se coding karte hain. Koi bhi kaam ya project jo AI ki madad se banaya jaye, usay hum AI-Driven Development kehte hain.
 
-How do you see the future of Human–AI Collaboration in software development?
-is ka future kaafi bright hoskata hen ager hum is ka use behtar tareka sa kara jesa ka hum kuch na sikh kar bas ai sa kam apna karwata jaye o humari skills devolpe na hon baje is ka hum AI ko behter tarika sa isktaml kar skata hen k pahla hum on skills ko lear kara phir aik stragey ka through planning kara implementation ka liya then based on our stratgy hum AI sa apna kam karway
+### Q2. How do you see the future of Human–AI Collaboration in software development?
+Is ka future bohat bright ho sakta hai agar hum is ka use behtar tareeqay se karen. Agar hum kuch na seekh kar bas AI se apna kaam karwate jayen to humari skills develop na hon. Bajaye is k, hum AI ko smarter tareeqay se use kar sakte hain: pehle hum core skills khud seekhen, phir ek solid strategy plan karen, aur finally implementation k liye AI se kaam karwayen based on our strategy. Is se humein bohat fayda hoga, jaise agar work mein changes karne hon to hum khud kar sakte hain kyun k hum ne skills pehle seekh li thin, na k sirf AI pe depend karte rahen.
+
+
+##🧠 Self-Test (MCQs)
+### 1️⃣ What is the main purpose of the AI-Native Era?
+a) Replace developers
+b) Empower developers through AI tools ✅
+c) Eliminate coding
+d) Automate testing
+### 2️⃣ What defines an AI-driven developer?
+a) Writes only syntax
+b) Creates context-aware prompts ✅
+c) Avoids tools
+d) Works offline
+### 3️⃣ What does “AIDD” stand for?
+a) AI-Integrated Data Design
+b) AI-Driven Development ✅
+c) Automated IDE Deployment
+d) Adaptive Input Debugger
+### 4️⃣ What is the focus of Evaluation-Driven Development (EvDD)?
+a) Manual coding
+b) Evaluating and improving AI outputs ✅
+c) UI design
+d) Testing only
+### 5️⃣ What should developers focus on in the AI era?
+a) Syntax only
+b) Building reasoning + evaluation skills ✅
+c) Avoiding AI tools
+d) Manual workflows
