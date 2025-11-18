@@ -1,11 +1,15 @@
+# AIDD-30-days-challenge - Task 2
+
 # 📁Part A — Theory (Short Questions)
 ## 1. Nine Pillars Understanding
 
 ### Q1. Why is using AI Development Agents (like Gemini CLI) for repetitive setup tasks
 better for your growth as a system architect?
+pahla to ya fast hen repitative tasks ka liya bhi kafi beneficial hen is ma hum apni chat save kar sakta hen dubara us ko open kar ka dubara kam usi par start kar sakta hen gemini cli sa hum apni existing directory ka files ko reiew karwa kar apna kam kar sakta hen as an a system architect sirf gemini cli ko ko task batao wo khod sari kam kar dne ka ap ki directory ma or ager kam khatam nhi howa bad ma karna hen to chat ko save kar dena or phir resume kar sakta hen is sa huma humara repitative taska ma kafi help milti hen.
 
 ### Q2. Explain how the Nine Pillars of AIDD help a developer grow into an M-Shaped
 Developer.
+Nine Pillars step-by-step higher-order skills sikhate hain: prompting → spec writing → evaluation → architecture → agents use karna, etc. Har pillar ek naya layer add karta hai, jis se developer sirf ek field (T-shaped) mein nahi balki multiple related domains (frontend + backend + infra + AI tooling) mein deep ho jata hai – yani M-Shaped ban jata hai.
 
 ## 2. Vibe Coding vs Specification-Driven Development
 
@@ -14,12 +18,15 @@ devolper ki lack of knowledge  jaisa ka kuch devolpers bas chatgpt sa kam karwat
 aik or wajah bhi a sakti hen kio  ka sara kam ai kar rahi hen to devolper nhi pata ka error kaha par konsi module or file ma hen to is liya bhi time lag sakta hen Vibe Coding ma. 
 
 ### Q2. How would Specification-Driven Development prevent those problems?
+Specification-Driven Development mein pehle clear requirements aur boundaries define ho jati hain. Is wajah se AI ko sahi context milta hai, code modular aur predictable banta hai, bugs ka scope pehle se pata hota hai, aur jab issue aaye to developer ko exactly pata hota hai kahan dekna hai – is liye problems ek week baad bhi easily resolve ho jate hain.
 
 ## 3. Architecture Thinking
 
 ### Q1. How does architecture-first thinking change the role of a developer in AIDD?
+Developer ab sirf “code likhne wala” nahi rehta, balki “system designer + prompter + director” ban jata hai. Wo pehle overall architecture decide karta hai, phir AI ko layered instructions deta hai – is tarah wo code ka manager ban jata hai instead of typist
 
 ### Q2. Explain why developers must think in layers and systems instead of raw code.
+Raw code likhna AI kar sakti hai, lekin layers (presentation → business → data), trade-offs, scalability aur maintainability sirf insaan decide kar sakta hai. Agar sirf raw code pe focus kiya to project jaldi messy ho jata hai aur baad mein extend ya fix karna bohat mushkil ho jata hai.
 
 # 📁 Part B — Practical Task
 <img width="1103" height="540" alt="image" src="https://github.com/user-attachments/assets/66481bfb-1aa0-449e-8a5b-2b2a9c6814b9" />
