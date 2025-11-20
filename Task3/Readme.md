@@ -1,5 +1,5 @@
 # AIDD-30-days-challenge - Task 3
-##🌟 PART A — Research Questions
+## 🌟 PART A — Research Questions
 ### Q1. What new improvements were introduced in Gemini 3.0?
 Gemini 3.0 is the smartest AI on the planet, and its improvements in the way it thinks, the way it deals with objects, such as text and video, and essentially behaves like your best friend, who assists you greatly. It succeeds in the harshest exams, such as scoring 1501 on LMArena in the general smarts and 81 percent on MMMU-Pro in combining types of information. And the 1-million-word memory, by the way, is absolutely huge, and it speaks much better, and it is much safer, against tricks or bad use.
 
